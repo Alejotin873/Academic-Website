@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://alejotin873.github.io/academic-website/sitemap.xml
+Sitemap: https://alejotin873.github.io/Academic-Website/sitemap.xml
